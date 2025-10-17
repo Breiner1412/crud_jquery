@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "root";
-$pass = "";
+$user = "remoto";
+$pass = "sena2025";
 $db = "crud_db";
 
 $conn = new mysqli($host, $user, $pass, $db);
